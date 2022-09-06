@@ -20,11 +20,11 @@ author: DonutX
 ###############################################
 
 navbar-links:
+  Resources: "#"
   About: "aboutme"
   Socials:
     - YouTube: "https://www.youtube.com/c/DonutXweb"
     - Twitter: "#"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -73,6 +73,7 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
+discord: users/donutx#1583
 #  kaggle: yourname
 #  hackerrank: yourname
 
