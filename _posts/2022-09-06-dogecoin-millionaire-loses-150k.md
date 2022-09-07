@@ -2,7 +2,7 @@
 layout: post
 title: Dogecoin Millionaire Loses $150k in a Day
 subtitle: Glauber Contesso's Biggest Mistake
-cover-img: /assets/img/d.png
+cover-img: /assets/img/d.jpg
 thumbnail-img: /assets/img/d.jpg
 share-img: /assets/img/d.jpg
 tags: [crypto, finance]
