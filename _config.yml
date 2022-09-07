@@ -21,14 +21,15 @@ author: DonutX
 
 navbar-links:
   Marketing: "/tags#test"
+  Reviews: "/tags#reviews"
   Tech: "/tags#tech"
   Crypto: "/tags#crypto"
   Books: "/tags#books"
   Finance: "/tags#finance" 
+  HowTo: "/tags#howto"
   #Socials:
     #- YouTube: "https://www.youtube.com/c/DonutXweb"
     #- Twitter: "https://twitter.com/donutxweb"
-  About: "aboutme"
 
 ################
 # --- Logo --- #
