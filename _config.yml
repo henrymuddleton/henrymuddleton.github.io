@@ -21,10 +21,14 @@ author: DonutX
 
 navbar-links:
   Marketing: "/tags#test"
+  Tech: "/tags#tech"
+  Crypto: "/tags#crypto"
+  Books: "/tags#books"
+  Finance: "/tags#finance" 
+  #Socials:
+    #- YouTube: "https://www.youtube.com/c/DonutXweb"
+    #- Twitter: "https://twitter.com/donutxweb"
   About: "aboutme"
-  Socials:
-    - YouTube: "https://www.youtube.com/c/DonutXweb"
-    - Twitter: "https://twitter.com/donutxweb"
 
 ################
 # --- Logo --- #
@@ -129,7 +133,7 @@ navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
-text-col: "#404040"
+text-col: "#121212"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
@@ -248,7 +252,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
