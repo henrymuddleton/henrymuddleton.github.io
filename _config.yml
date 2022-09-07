@@ -20,11 +20,11 @@ author: DonutX
 ###############################################
 
 navbar-links:
-  Resources: "#"
+  Marketing: "/tags#test"
   About: "aboutme"
   Socials:
     - YouTube: "https://www.youtube.com/c/DonutXweb"
-    - Twitter: "#"
+    - Twitter: "https://twitter.com/donutxweb"
 
 ################
 # --- Logo --- #
